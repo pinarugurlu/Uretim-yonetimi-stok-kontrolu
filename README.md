@@ -1,0 +1,1 @@
+# Uretim-yonetimi-stok-kontrolu
